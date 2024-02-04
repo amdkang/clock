@@ -13,6 +13,7 @@
 		686986E72B6AF0FB00EABA5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 686986E52B6AF0FB00EABA5E /* Main.storyboard */; };
 		686986E92B6AF0FF00EABA5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 686986E82B6AF0FF00EABA5E /* Assets.xcassets */; };
 		686986EC2B6AF0FF00EABA5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 686986EA2B6AF0FF00EABA5E /* LaunchScreen.storyboard */; };
+		68908AAA2B6EDA6A0031454A /* lazy-day.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 68908AA92B6EDA6A0031454A /* lazy-day.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		686986E82B6AF0FF00EABA5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		686986EB2B6AF0FF00EABA5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		686986ED2B6AF0FF00EABA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68908AA92B6EDA6A0031454A /* lazy-day.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "lazy-day.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				686986E82B6AF0FF00EABA5E /* Assets.xcassets */,
 				686986EA2B6AF0FF00EABA5E /* LaunchScreen.storyboard */,
 				686986ED2B6AF0FF00EABA5E /* Info.plist */,
+				68908AA92B6EDA6A0031454A /* lazy-day.mp3 */,
 			);
 			path = clock;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68908AAA2B6EDA6A0031454A /* lazy-day.mp3 in Resources */,
 				686986EC2B6AF0FF00EABA5E /* LaunchScreen.storyboard in Resources */,
 				686986E92B6AF0FF00EABA5E /* Assets.xcassets in Resources */,
 				686986E72B6AF0FB00EABA5E /* Main.storyboard in Resources */,
